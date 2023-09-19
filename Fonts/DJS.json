@@ -1,0 +1,92 @@
+{"frames": [
+
+{
+	"filename": "0.png",
+	"frame": {"x":0,"y":0,"w":58,"h":79},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":58,"h":79},
+	"sourceSize": {"w":58,"h":79}
+},
+{
+	"filename": "1.png",
+	"frame": {"x":58,"y":0,"w":58,"h":79},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":58,"h":79},
+	"sourceSize": {"w":58,"h":79}
+},
+{
+	"filename": "2.png",
+	"frame": {"x":116,"y":0,"w":58,"h":79},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":58,"h":79},
+	"sourceSize": {"w":58,"h":79}
+},
+{
+	"filename": "3.png",
+	"frame": {"x":174,"y":0,"w":58,"h":79},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":58,"h":79},
+	"sourceSize": {"w":58,"h":79}
+},
+{
+	"filename": "4.png",
+	"frame": {"x":0,"y":79,"w":58,"h":79},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":58,"h":79},
+	"sourceSize": {"w":58,"h":79}
+},
+{
+	"filename": "5.png",
+	"frame": {"x":58,"y":79,"w":58,"h":79},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":58,"h":79},
+	"sourceSize": {"w":58,"h":79}
+},
+{
+	"filename": "6.png",
+	"frame": {"x":116,"y":79,"w":58,"h":79},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":58,"h":79},
+	"sourceSize": {"w":58,"h":79}
+},
+{
+	"filename": "7.png",
+	"frame": {"x":174,"y":79,"w":58,"h":79},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":58,"h":79},
+	"sourceSize": {"w":58,"h":79}
+},
+{
+	"filename": "8.png",
+	"frame": {"x":0,"y":158,"w":58,"h":79},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":58,"h":79},
+	"sourceSize": {"w":58,"h":79}
+},
+{
+	"filename": "9.png",
+	"frame": {"x":58,"y":158,"w":58,"h":79},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":58,"h":79},
+	"sourceSize": {"w":58,"h":79}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "DJS.png",
+	"format": "RGBA8888",
+	"size": {"w":232,"h":237},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:817536583d57f1088014b4d8d775d535:252de823220b19a6d0496ffc30415ce8:49e486eca4cd629169e5894228e4affa$"
+}
+}
